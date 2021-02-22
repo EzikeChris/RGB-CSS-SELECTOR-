@@ -2,6 +2,7 @@ body {
     background-color: #232323;
 }
 
+
 .square {
     width: 30%;
     background: rgb(199, 215, 236);
@@ -22,4 +23,14 @@ h1 {
 
 span {
     color: white;
+}
+
+#stripe {
+    background: white;
+    height:30px;
+    text-align: center;
+}
+
+.selected {
+    background: blue;
 }
